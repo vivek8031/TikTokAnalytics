@@ -57,9 +57,3 @@ We welcome contributions from the community. If you'd like to contribute, please
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-This README provides a detailed overview of the project. For any additional information or queries, please open an issue or contact the repository owner. Enjoy using TikTok Analytics!
-
-Please replace `"/path/to/screenshot.png"` with the actual path of your image once you've uploaded it to your repository.

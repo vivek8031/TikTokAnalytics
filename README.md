@@ -1,5 +1,11 @@
 # 🎉 TikTok Analytics Project 🎉
 
+[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/vivek7208/TikTokAnalytics/blob/master/Tiktok%20Analytics%20Test.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Preview in nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/vivek7208/TikTokAnalytics/blob/master/Tiktok%20Analytics%20Test.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vivek7208/TikTokAnalytics/blob/master/Tiktok%20Analytics%20Test.ipynb)
+
 This repository contains a Python-based project 🐍 designed to interact with the TikTok API, perform analytics on user data 📊, and present the results in an interactive web-based dashboard 💻. It includes a Jupyter notebook for testing 🧪, Python modules containing the core functionality and helper functions, and a Streamlit application script that serves as the entry point to the application.
 
 

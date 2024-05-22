@@ -39,8 +39,8 @@ The project employs the Streamlit library to present these insights in an easy-t
 Before installing, ensure that you have Python 🐍 and pip installed on your system. Once these prerequisites are met, you can install the project by cloning this repository and installing the required dependencies.
 
 ```bash
-git clone https://github.com/vivek7208/TikTok_Analytics.git
-cd TikTok_Analytics
+git clone https://github.com/vivek8031/TikTokAnalytics.git
+cd TikTokAnalytics
 ```
 
 ## 🚀 Usage
